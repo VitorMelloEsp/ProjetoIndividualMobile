@@ -3,4 +3,6 @@ Clone da tela de login do Spotify
 
 
 Página a ser clonada
-![página original](https://exemplo.com/logo.png](https://mobbin.com/screens/6604532f-d635-473f-8ecc-ebd63320e98c)https://mobbin.com/screens/6604532f-d635-473f-8ecc-ebd63320e98c)
+![página original]()
+<img src="https://exemplo.com/logo.png](https://cdn.discordapp.com/attachments/1135259274587680908/1177754879234686986/Spotify_Android_1.png?ex=6573a8b4&is=656133b4&hm=b5fe5673fc0e7e14d2b588a4a569d7670558e2aea0973d2f4360149e90acc45f&)" alt="página a ser clonada">
+![página a ser clonada](https://exemplo.com/logo.png](https://cdn.discordapp.com/attachments/1135259274587680908/1177754879234686986/Spotify_Android_1.png?ex=6573a8b4&is=656133b4&hm=b5fe5673fc0e7e14d2b588a4a569d7670558e2aea0973d2f4360149e90acc45f&)https://cdn.discordapp.com/attachments/1135259274587680908/1177754879234686986/Spotify_Android_1.png?ex=6573a8b4&is=656133b4&hm=b5fe5673fc0e7e14d2b588a4a569d7670558e2aea0973d2f4360149e90acc45f&)
